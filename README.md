@@ -7,6 +7,5 @@ connection = psycopg2.connect(user = "jenna",
                                   password = "pwd",
                                   host = "127.0.0.1",
                                   port = "5432",
-                                  database = "coinapi")
-'''
+                                  database = "coinapi")'''
 
