@@ -251,7 +251,7 @@ def normalize(series):
     # View the dataframe
     return normalized
 
-
+print('Normalizing Data')
 normalized_df = pd.DataFrame()
 cols = ['price_low','price_high']
 for col in cols:
